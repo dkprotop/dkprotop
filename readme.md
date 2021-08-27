@@ -17,7 +17,8 @@ public class **Paulo** {
 ```
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying **Tecnologia da Informação** at <a href="http://www.fumec.br/">FUMEC</a>.
+- 🎓 &nbsp; Formed **Tecnologia da Informação** at <a href="http://www.fumec.br/">FUMEC</a>.
+- 🎓 &nbsp; Studying **Sistemas de Informação** at <a href="http://www.fumec.br/">FUMEC</a>.
 
 **Applications and Data**
 
